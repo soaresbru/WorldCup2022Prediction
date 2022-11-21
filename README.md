@@ -12,6 +12,20 @@ Or you can see the upload in this repository in the file: "international_matches
 And the file that I created with the data from the first phase of the 2022 world cup, you can see the upload in this repository in the file:
 "Group_phase.csv"  
 
+## Index
+1. Importing the libraries
+2. Reading the files
+3. Looking briefly at the data
+4. Feature Engineering
+5. Working only with World Cup data - "Training is training, and a game is a game"
+6. Split into training, validation and testing.
+7. Feature Engineering with Cup data
+8. Training the model - RandomForestClassifier
+9. Training the model - XGBClassifier
+10. Training the model - LogisticRegression
+11. Training the test file for submission - LogisticRegression
+12. Creating the file for submission
+
 ---
 
 # Copa do Mundo da FIFA Catar 2022
@@ -27,3 +41,17 @@ Ou você pode ver o upload nesse repositório no arquivo: "international_matches
 
 E o arquivo que eu criei, com os dados dos jogos da primeira fase da copa do mundo de 2022, você pode ver o upload nesse repositório no arquivo: 
 "Fase_de_grupos.csv"
+
+## Conteúdo
+1. Importando as bibliotecas
+2. Leitura das bases consumidas
+3. Olhando brevemente os dados
+4. Engenharia de variáveis
+5. Trabalhando apenas com os dados da Copa - "Treino é treino, e jogo é jogo"
+6. Dividindo em treino, validação e teste.
+7. Engenharia de variáveis com os dados da Copa
+8. Treinando o modelo - RandomForestClassifier
+9. Treinando o modelo - XGBClassifier
+10. Treinando o modelo - LogisticRegression
+11. Treinando o arquivo de teste para o submissão
+12. Criando o arquivo para submissão
